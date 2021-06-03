@@ -1,7 +1,7 @@
 import os
 import cv2
 
-img_name="test"
+img_name = "test"
 
 dir = "./{}".format(img_name)
 if not os.path.isdir(dir):
